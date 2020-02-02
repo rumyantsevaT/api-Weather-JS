@@ -1,6 +1,10 @@
 html, body {
-    font-family: serif;
+    font-family: sans-serif;
 }
 body {
-    margin: 20px;
+    /* margin: 20px; */
+    background-color: #007095;
+}
+.data-temp{
+    font-size: 2rem;
 }
